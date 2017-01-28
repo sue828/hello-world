@@ -1,2 +1,3 @@
 # hello-world
 first steps
+learning Python while watching my toddler...
